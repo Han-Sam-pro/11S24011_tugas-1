@@ -1,0 +1,6 @@
+{
+  "name": "Sakuku",
+  "description": "Aplikasi pengaturan keuangan harian otomatis dengan transaksi berulang, template instan, dan laporan bulanan interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
